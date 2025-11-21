@@ -168,12 +168,3 @@ I can provide:
 - JavaScript AI scripts
 
 ---
-
-### 👉 Want the next step?
-Choose what you want:
-
-- 🧩 **Starter PlayCanvas project (link + folders)**
-- 📂 **Asset pack recommendations**
-- 🤖 **Base AI and eating scripts**
-
-Which one should I generate?
